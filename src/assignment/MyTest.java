@@ -9,7 +9,7 @@ public class MyTest {
 //    	System.setProperty("webdriver.gecko.driver","C:\\geckodriver.exe");
 //		WebDriver driver = new FirefoxDriver();
 		//comment the above 2 lines and uncomment below 2 lines to use Chrome
-		System.setProperty("webdriver.chrome.driver","/Users/wilmerchant/Projects/chromedriver");
+		System.setProperty("webdriver.chrome.driver","resources/chromedriver");
 		WebDriver driver = new ChromeDriver();
     	
         String baseUrl = "https://codepen.io/CalendlyQA/full/KKPQLmV";
