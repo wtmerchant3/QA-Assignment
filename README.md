@@ -7,4 +7,4 @@ The report containing the manual test scenarios, results, reported bugs, and oth
 https://docs.google.com/document/d/1vnvj8S5sxQmM7b-WyAKL_-7AqrRDWqOZ1sEdMzaPUMI/edit?usp=sharing
 
 The screen recording of the automated tests can be found here: 
-https://drive.google.com/file/d/1JgoITbLS4U-57uC7EcKpzleyLYztUwrt/view?usp=sharing
+https://drive.google.com/file/d/1wGwQ95jvKaEbd2gafp8PYmtaNtF7GKAR/view?usp=sharing
