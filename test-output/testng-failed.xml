@@ -7,6 +7,8 @@
         <methods>
           <include name="openBrowser"/>
           <include name="verifyNewTableNotGeneratedIfGameAlreadyStarted"/>
+          <include name="verifyPlayerOCanWinGame"/>
+          <include name="verifySpacesCannotBeClickedAfterGameEndsInWinWithRemainingEmptySpaces"/>
           <include name="closeBrowser"/>
           <include name="verifyGameCanEndWithAWinner"/>
         </methods>
